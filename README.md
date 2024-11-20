@@ -2,6 +2,8 @@
 
 This repository provides a demonstration of fine-tuning a pre-trained language model (BERT) for a text classification task using TensorFlow, Hugging Face Transformers, and Scikit-learn. The provided scripts and job scheduler instructions enable efficient fine-tuning on a CPU-based environment, such as an HPC cluster.
 
+Slides: https://docs.google.com/presentation/d/1eNdsWbLccc_8GnwWgOo2u6U5Z05eswu0S30Z03TqnPU/edit?usp=sharing
+
 ---
 
 ## Prerequisites
